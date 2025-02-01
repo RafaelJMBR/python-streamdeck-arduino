@@ -1,0 +1,8 @@
+# Arquivo requirements.txt
+
+# Para instalar essas bibliotecas, você pode usar o comando pip install -r requirements.txt no terminal. Isso irá instalar todas as bibliotecas listadas neste arquivo.
+
+# Bibliotecas necessárias para o projeto
+serial==0.0.97
+pynput==1.7.6
+
